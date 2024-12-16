@@ -1,7 +1,7 @@
 
 # Визитная карточка сотрудника
 
-![image]((https://leviant.ru/wp-content/uploads/2021/11/imgcontact1-1002x1024-1.jpg)
+![image](https://leviant.ru/wp-content/uploads/2021/11/imgcontact1-1002x1024-1.jpg)
 
 ## Личные данные
 - Фамилия, имя, отчество: Маркин Максим Романович  
